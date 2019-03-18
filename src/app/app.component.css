@@ -1,0 +1,11 @@
+.body {
+    padding: auto 10%;
+}
+
+.product-list-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: space-around;
+}

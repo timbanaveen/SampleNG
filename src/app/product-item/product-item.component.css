@@ -1,0 +1,7 @@
+.product-item {
+    text-align: center;
+    border: 1px solid steelblue;
+    border-radius: 3px;
+    margin: 10px;
+    padding: 20px;
+}
